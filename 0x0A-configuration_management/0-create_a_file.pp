@@ -1,3 +1,4 @@
+# This Puppet manifest creates a file in /tmp with specific permissions, owner, and content.
 tes a file in /tmp
 
 file { '/tmp/school':
